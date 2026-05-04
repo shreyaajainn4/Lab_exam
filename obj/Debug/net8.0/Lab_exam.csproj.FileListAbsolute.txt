@@ -1,0 +1,14 @@
+C:\Users\srest\source\repos\Lab_exam\bin\Debug\net8.0\Lab_exam.exe
+C:\Users\srest\source\repos\Lab_exam\bin\Debug\net8.0\Lab_exam.deps.json
+C:\Users\srest\source\repos\Lab_exam\bin\Debug\net8.0\Lab_exam.runtimeconfig.json
+C:\Users\srest\source\repos\Lab_exam\bin\Debug\net8.0\Lab_exam.dll
+C:\Users\srest\source\repos\Lab_exam\bin\Debug\net8.0\Lab_exam.pdb
+C:\Users\srest\source\repos\Lab_exam\obj\Debug\net8.0\Lab_exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srest\source\repos\Lab_exam\obj\Debug\net8.0\Lab_exam.AssemblyInfoInputs.cache
+C:\Users\srest\source\repos\Lab_exam\obj\Debug\net8.0\Lab_exam.AssemblyInfo.cs
+C:\Users\srest\source\repos\Lab_exam\obj\Debug\net8.0\Lab_exam.csproj.CoreCompileInputs.cache
+C:\Users\srest\source\repos\Lab_exam\obj\Debug\net8.0\Lab_exam.dll
+C:\Users\srest\source\repos\Lab_exam\obj\Debug\net8.0\refint\Lab_exam.dll
+C:\Users\srest\source\repos\Lab_exam\obj\Debug\net8.0\Lab_exam.pdb
+C:\Users\srest\source\repos\Lab_exam\obj\Debug\net8.0\Lab_exam.genruntimeconfig.cache
+C:\Users\srest\source\repos\Lab_exam\obj\Debug\net8.0\ref\Lab_exam.dll
